@@ -5,7 +5,7 @@ This repository serves as my personal collection of notes for the [AWS Certified
 
 
 ## Data Engineering
-- [S3](./s3.xmind)
+- [S3](./Data%20Engineering//s3.xmind)
 
 ## Exploratory Data Analysis
 
