@@ -20,4 +20,4 @@ This repository serves as my personal collection of notes* for the [AWS Certifie
 
 
 
-All notes are in xmind format. Please download XMind too view them.
+*All notes are in xmind format. Please download XMind too view them.
