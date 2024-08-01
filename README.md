@@ -6,7 +6,8 @@ This repository serves as my personal collection of notes* for the [AWS Certifie
 
 ## Data Engineering
 - [S3](./Data%20Engineering//s3.xmind)
-- [Kinesis](./Data%20Engineering//kinesis.xmind)
+- [Kinesis](./Data%20Engineering//Kinesis.xmind)
+- [Glue](./Data%20Engineering//Glue.xmind)
 
 ## Exploratory Data Analysis
 
