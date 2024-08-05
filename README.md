@@ -11,6 +11,10 @@ This repository serves as my personal collection of notes* for the [AWS Certifie
 - [Other Data Engineering Services](./Data%20Engineering//Other%20Services%20for%20Data%20Engineering.xmind)
 
 ## Exploratory Data Analysis
+- [Data ](./Exploratory%20Data%20Analysis//Data.xmind)
+- [Time Series](./Exploratory%20Data%20Analysis//Time%20Series.xmind)
+- [Athena](./Exploratory%20Data%20Analysis//Athena.xmind)
+- [Quicksight](./Exploratory%20Data%20Analysis//Quicksight.xmind)
 
 ## Modeling
 
