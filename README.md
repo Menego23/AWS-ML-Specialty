@@ -15,6 +15,8 @@ This repository serves as my personal collection of notes* for the [AWS Certifie
 - [Time Series](./Exploratory%20Data%20Analysis//Time%20Series.xmind)
 - [Athena](./Exploratory%20Data%20Analysis//Athena.xmind)
 - [Quicksight](./Exploratory%20Data%20Analysis//Quicksight.xmind)
+- [EMR](./Exploratory%20Data%20Analysis//EMR.xmind)
+
 
 ## Modeling
 
