@@ -16,6 +16,7 @@ This repository serves as my personal collection of notes* for the [AWS Certifie
 - [Athena](./Exploratory%20Data%20Analysis//Athena.xmind)
 - [Quicksight](./Exploratory%20Data%20Analysis//Quicksight.xmind)
 - [EMR](./Exploratory%20Data%20Analysis//EMR.xmind)
+- [Spark](./Exploratory%20Data%20Analysis//Spark%20on%20EMR.xmind)
 
 
 ## Modeling
